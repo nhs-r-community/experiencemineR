@@ -4,15 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of experiencemineR is to ...
-
-## Installation
-
-You can install the released version of experiencemineR from [CRAN](https://CRAN.R-project.org) with:
-
-``` r
-install.packages("experiencemineR")
-```
+The goal of experiencemineR is to create an R wrapper around [this](https://github.com/CDU-data-science-team/pxtextmining/tree/develop) text classification pipeline.
 
 ## Example
 
